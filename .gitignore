@@ -1,0 +1,22 @@
+# Maven
+target/
+pom.xml.releaseBackup
+release.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+*.env.local
+
+# Juniper's Postman collection (~10 MB, Juniper's content); download it to refresh fixtures, see README
+mist-postman.json
